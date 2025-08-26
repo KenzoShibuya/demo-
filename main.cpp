@@ -8,7 +8,8 @@ int main() {
 cout << "This being my first Git project is kinda crazy ngl" << endl;
 
 cout << "Otro cambio y ya me da flojera escribir en ingles" << endl;
-	
+
+cout << "Ta q ya tengo mis llaves SSH gaaaaaa" << endl;	
     for (int i = 1; i <= 10; i++) {
         cout << "Quien puede decirme quien fue el coronel Leoncio Prado Gutierrez" << endl;
         cout << "Fue mi pene" << endl;
